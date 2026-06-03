@@ -94,4 +94,7 @@ Voice-to-Text SOS: NLP for injured victims who cannot type.
 
 B2G Integration: API integration with NDRF/SDMA for national disaster response.
 
-Built with ❤️ by Deepak Kr Singh
+## 👥 Team & Contributions
+
+* **Deepak Kr Singh:** Core Infrastructure & Connectivity. Designed the multi-hop routing architecture, optimized battery-efficient device discovery utilizing Bluetooth Low Energy (BLE) and Wi-Fi Direct, and implemented Time-to-Live (TTL) packet control to prevent infinite message loops within the mesh.
+* **Deepika Kashyap:** Urgency Intelligence & Protocol Design. Engineered the core functional logic and custom priority triage algorithm. Designed and implemented the packet-dropping protocol based on message urgency levels, ensuring zero-latency routing for critical SOS alerts over routine data.
